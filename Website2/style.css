@@ -146,7 +146,7 @@ body{
 .sidebar {
   height: 100px;
   width: 80px;
-  position: fixed;
+  position:  fixed;
   top: 0;
   left: 0;
   background-color: #111;
