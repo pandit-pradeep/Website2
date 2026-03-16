@@ -10,6 +10,7 @@ const closebtn = document.getElementById('close')
     //    bar.style.display="none"
     })
 
+    
     closebtn.addEventListener("click" , () =>{
       nav.style.remove('hidden');
     })
