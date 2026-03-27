@@ -9,6 +9,7 @@ html,body{
 header
 {
     display: flex;
+    
     justify-content: space-around;
     background-color: #fffdc3;
     height: 60px;
