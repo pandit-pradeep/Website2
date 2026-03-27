@@ -4,7 +4,7 @@ const nav =  document.getElementById("sidebar");
 const closebtn = document.getElementById('close')
 
 
-    bar.addEventListener("click" ,() => {
+    bar.addEventListener("click" ,() => {        
        console.log("hello")
        nav.style.display="block"
     //    bar.style.display="none"
